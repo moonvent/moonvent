@@ -3,9 +3,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=moonvent&label=Profile%20views&color=0e75b6&style=flat" alt="moonvent" /> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moonvent&row=1&column=1" alt="moonvent" /></a> </p>
 
-- 🔭 I’m currently working on [my game](https://github.com/moonvent/village), my [desktop email client](https://github.com/moonvent/desktop_email_client), 
-and work on a few project for my official work.
-
 - 📫 How to reach me **collabortiss@outlook.com**
 
 <h3 align="left">Languages and Tools:</h3>
